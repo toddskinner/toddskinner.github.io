@@ -1,0 +1,58 @@
+html {
+	background-color: #B8B8B8;
+}
+
+.blogposts {
+	height: 800px;
+	width: 1000px;
+	background-color: #D1D1D1;
+	float: right;
+	padding: 30px; 
+}
+
+#biopic {
+	height: 250px;
+	width: 270px;
+}
+
+#summary {
+	margin-right: 20px;
+}
+
+.sidebar {
+	width: 300px;
+	float: left;
+	margin-left: 40px;
+}
+
+#profile {
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+}
+tr.icons {
+	display: inline-table;
+}
+
+#contactinfo {
+	font-size: 26px;
+	text-align: center;
+}
+
+article {
+	background-color: white;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: left;
+	text-decoration: none;
+	
+}
+
+th {
+	font-size: 40px;
+}
+
